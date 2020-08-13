@@ -20,6 +20,9 @@
     <div id="nav-placeholder"></div>
 
     <br>
+
+    <div class="row">
+    <div class="sidebar-leftcolumn">
     <main role="main" class="container">
       <div class="row">
         <div class="col-md-12">
@@ -88,6 +91,11 @@
         </div>
       </div>
     </main>
+    </div>
+    <div class="sidebar-rightcolumn">
+      <div id="sidebar-placeholder"></div>
+    </div>
+    </div>
 
     <div id="footer-placeholder"></div>
     <!-- Bootstrap core JavaScript
@@ -101,6 +109,7 @@
       $(function(){
         $("#nav-placeholder").load("nav.htm");
         $("#footer-placeholder").load("footer.htm");
+        $("#sidebar-placeholder").load("sidebar.htm");
       });
     </script>
   </body>
