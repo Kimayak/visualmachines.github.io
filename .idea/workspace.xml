@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8af78eb-956e-4508-9c34-5b2c4abbb8d7" name="Default Changelist" comment="Link Thumbnail, commit 1" />
+    <list default="true" id="f8af78eb-956e-4508-9c34-5b2c4abbb8d7" name="Default Changelist" comment="Link Thumbnail, commit 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deepsfp.htm" beforeDir="false" afterPath="$PROJECT_DIR$/deepsfp.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/papers/deepsfp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/papers/deepsfp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/templates/paper_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/templates/paper_template.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598562718017</updated>
-      <workItem from="1598562720644" duration="2083000" />
+      <workItem from="1598562720644" duration="3050000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1598563844281</created>
