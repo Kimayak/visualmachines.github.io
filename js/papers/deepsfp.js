@@ -1,5 +1,5 @@
 var context = {
-    Title: "Deep Shape from Polarization",
+    Title: "Deep Shape from Polarization:",
     Authors: [
       {
         Name: "Yunhao Ba",
