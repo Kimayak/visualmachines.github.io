@@ -127,7 +127,7 @@ var context = {
     Photos: [
       {
         Link: "./img/deepsfp/pol.png",
-        Caption: "Figure 1: Inherent ambiguities in shape from polarization.",
+        Caption: "Figure 1111: Inherent ambiguities in shape from polarization.",
       },
       {
         Link: "./img/deepsfp/setup_dataset.png",
