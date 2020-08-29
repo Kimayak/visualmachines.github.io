@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8af78eb-956e-4508-9c34-5b2c4abbb8d7" name="Default Changelist" comment="Link Thumbnail, commit 5">
-      <change beforePath="$PROJECT_DIR$/deepsfp.htm" beforeDir="false" afterPath="$PROJECT_DIR$/deepsfp.htm" afterDir="false" />
+    <list default="true" id="f8af78eb-956e-4508-9c34-5b2c4abbb8d7" name="Default Changelist" comment="Link Thumbnail, commit 10.5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/publications.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/publications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.htm" beforeDir="false" afterPath="$PROJECT_DIR$/publications.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598562718017</updated>
-      <workItem from="1598562720644" duration="4420000" />
+      <workItem from="1598562720644" duration="6344000" />
+      <workItem from="1598652887151" duration="2388000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1598563844281</created>
@@ -100,7 +103,49 @@
       <option name="project" value="LOCAL" />
       <updated>1598568087039</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Link Thumbnail, commit 6">
+      <created>1598568363579</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598568363579</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Link Thumbnail, commit 7">
+      <created>1598568509775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598568509775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Link Thumbnail, commit 8">
+      <created>1598568663240</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598568663240</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Link Thumbnail, commit 9">
+      <created>1598570160539</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598570160539</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Link Thumbnail, commit 10">
+      <created>1598570617712</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598570617712</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Link Thumbnail, commit 10.5">
+      <created>1598570664951</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598570664951</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +161,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing" />
@@ -124,17 +170,23 @@
     <MESSAGE value="Link Thumbnail, commit 3" />
     <MESSAGE value="Link Thumbnail, commit 4" />
     <MESSAGE value="Link Thumbnail, commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Link Thumbnail, commit 5" />
+    <MESSAGE value="Link Thumbnail, commit 6" />
+    <MESSAGE value="Link Thumbnail, commit 7" />
+    <MESSAGE value="Link Thumbnail, commit 8" />
+    <MESSAGE value="Link Thumbnail, commit 9" />
+    <MESSAGE value="Link Thumbnail, commit 10" />
+    <MESSAGE value="Link Thumbnail, commit 10.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link Thumbnail, commit 10.5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="185" key="#Notifications" timestamp="1598563923754">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="396" y="185" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1598563923754" />
-    <state x="234" y="94" key="Vcs.Push.Dialog.v2" timestamp="1598563847802">
+    <state x="234" y="94" key="Vcs.Push.Dialog.v2" timestamp="1598570149335">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1598563847802" />
+    <state x="234" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1598570149335" />
     <state x="448" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598564652939">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

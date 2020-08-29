@@ -1,4 +1,10 @@
 var context = {
+  deepsfp: {
+    imgURL: "img/deepsfp/sfp.png",
+    pubURL: "deepsfp.htm",
+    Title: "Deep Shape from Polarization",
+    Description: "A first attempt to re-examine the shape from polarization (SfP) problem using physics-based deep learning."
+  },
   PhysicsAI: {
     imgURL: "img/physics_ai/physics_ai.png",
     pubURL: "physics_ai.htm",
